@@ -1,0 +1,32 @@
+[
+  {
+    "type": "photo",
+    "url": "images/photo1.jpg",
+    "caption": "DJ KIRYA на фестивале 🔥"
+  },
+  {
+    "type": "photo",
+    "url": "images/photo2.jpg",
+    "caption": "Выступление в клубе Energy 💿"
+  },
+  {
+    "type": "video",
+    "url": "videos/set1.mp4",
+    "caption": "Фрагмент живого DJ-сета 🎧"
+  },
+  {
+    "type": "photo",
+    "url": "images/photo3.jpg",
+    "caption": "Backstage перед выступлением ⚡"
+  },
+  {
+    "type": "video",
+    "url": "videos/night-show.mp4",
+    "caption": "Ночной сет на открытии сезона 🌙"
+  },
+  {
+    "type": "photo",
+    "url": "images/photo1.jpg",
+    "caption": "DJ KIRYA на фестивале 🔥"
+  }
+]
